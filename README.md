@@ -60,7 +60,7 @@ I operate at the intersection of offense and defense. I specialize in **AI Red T
 Always open to discussing AI Red Teaming, VAPT methodologies, SOC automation, or new opportunities.
 
 - 💼 [LinkedIn](https://linkedin.com/in/krishna1428)
-- 🐦 [Twitter / X](https://twitter.com/krishnasec)
+- 🐦 [Twitter / X](https://twitter.com/krishna1428)
 - 🌐 [Portfolio](https://krishnabk1.com.np)
 - 📧 [hello@krishnabk1.com.np](mailto:hello@krishnabk1.com.np)
 
