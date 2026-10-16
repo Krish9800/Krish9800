@@ -34,7 +34,7 @@ I operate at the intersection of offense and defense. I specialize in **AI Red T
 
 | Project | Security Focus & Impact | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **[AI Red Teaming Toolkit](https://github.com/Krish9800/ai-red-team-toolkit)** *(Update link)* | Automated adversarial testing for LLMs, focusing on prompt injection, jailbreaking, and data leakage prevention (OWASP LLM Top 10). | Python, LangChain, REST APIs |
+| 🤖 **[AI Phishing Detection System](https://github.com/Krish9800/ai-phishing-detection-system )**  | Automated adversarial testing for LLMs, focusing on prompt injection, jailbreaking, and data leakage prevention (OWASP LLM Top 10). | Python, LangChain, REST APIs |
 | 🔴 **[Personal Security Toolkit](https://github.com/Krish9800/personal-security-toolkit)** | Custom CLI for VAPT workflows: automated reconnaissance, port scanning, and adversarial payload generation. | Python, CLI, Cryptography |
 | 🛡️ **[Secure Auth Service](https://github.com/Krish9800/secure-authentication-service)** | **Blue Team Focus:** Built a hardened authentication API to study and mitigate brute-force, timing attacks, and session hijacking. | Python, FastAPI, Docker |
 | 🔑 **[Password Analyzer](https://github.com/Krish9800/password-analyzer)** | **SOC/Threat Intel Focus:** Entropy analysis and breach database checking (k-Anonymity) to detect compromised credentials and enforce NIST policies. | Python, Hashing, APIs |
@@ -59,7 +59,7 @@ I operate at the intersection of offense and defense. I specialize in **AI Red T
 ### 📫 Let's Connect & Collaborate
 Always open to discussing AI Red Teaming, VAPT methodologies, SOC automation, or new opportunities.
 
-- 💼 [LinkedIn](https://linkedin.com/in/krishnasec)
+- 💼 [LinkedIn](https://linkedin.com/in/krishna1428)
 - 🐦 [Twitter / X](https://twitter.com/krishnasec)
 - 🌐 [Portfolio](https://krishnabk1.com.np)
 - 📧 [hello@krishnabk1.com.np](mailto:hello@krishnabk1.com.np)
